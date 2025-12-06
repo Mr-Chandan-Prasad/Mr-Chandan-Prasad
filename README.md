@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Chandan-Prasad
 - 👀 I’m interested in ...Hacking and UPSC
-- 🌱 I’m currently learning ...Cyber_Security And UPSC
+- 🌱 I’m currently learning ...Cyber_Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...thehackersworld.indian@gmail.com
 - 😄 Pronouns: ...Mr_chandan
